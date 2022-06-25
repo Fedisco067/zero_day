@@ -1,1 +1,1 @@
-_emphasize_
+command uname
